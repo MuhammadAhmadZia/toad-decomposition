@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: >-
+  A Four-Factor Decomposition of Memory Compression in Boosted
+  Tree Ensembles
+message: Please cite this software using these metadata.
+type: software
+authors:
+  - given-names: Muhammad Ahmad
+    family-names: Zia
+    affiliation: University of Lahore
+version: 1.0.0
+date-released: "2026-09-19"
+license: MIT
+abstract: >-
+  Replication package separating the contributions of learner,
+  model size, storage layout and value coding to reported
+  compression figures for gradient boosted tree ensembles.
+keywords:
+  - gradient boosted decision trees
+  - model compression
+  - embedded machine learning
+  - succinct data structures
